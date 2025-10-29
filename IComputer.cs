@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace ConsoleApp12
+namespace ConsoleApp13
 {
     internal interface IComputer
     {
